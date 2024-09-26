@@ -1,4 +1,4 @@
-Dependcies Added
+Dependencies Added:-
 
 1.React
 npm install react react-dom
@@ -9,8 +9,8 @@ npm install react-dnd react-dnd-html5-backend
 3.React Modal
 npm install react-modal
 
+Cdn Links Used:-
 
-Cdn Links Used
 1.Bootstrap
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
           crossorigin="anonymous">
@@ -36,8 +36,8 @@ Cdn Links Used
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 
 
+Test Case Validations:-
 
-Test Case Validations
 1. Field Label Validation - Field name should not be empty.
 2. Duplicate Field Validation - Field names should not be Same.
 3. Property Validation - All fields have valid properties 
